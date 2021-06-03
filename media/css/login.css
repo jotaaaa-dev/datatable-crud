@@ -1,0 +1,25 @@
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color:white;
+}
+
+.form-login {
+  width: 600px;
+  height: 500px;
+  max-width: 330px;
+  padding: 10px;
+  margin: auto;
+}
+
+.form-floating {
+  align-items: center;
+  width: 500px;
+  left: -100px;
+}
